@@ -1,4 +1,4 @@
-# StudyForge ⚡
+# StudyForge
 
 An AI-powered flashcard generator built with React, Node.js, and the Claude API.
 
