@@ -51,7 +51,7 @@ function App() {
         {/* Header */}
         <div className="text-center mb-10">
           <h1 className="text-5xl font-extrabold tracking-tight mb-2">
-            Study<span className="text-blue-500">Forge</span> ⚡
+            Study<span className="text-blue-500">Forge</span>
           </h1>
           <p className="text-gray-400 text-lg">Paste your notes. Get flashcards instantly.</p>
         </div>
