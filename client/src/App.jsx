@@ -15,7 +15,7 @@ function App() {
     setKnown({})
 
     try {
-      const response = await fetch("studyforge-production-8b48.up.railway.app", {
+      const response = await fetch("https://studyforge-production-8b48.up.railway.app/generate", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ notes }),
